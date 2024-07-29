@@ -19,8 +19,11 @@ Make sure that your grades are in a text file with the following format: `[name 
 
 
 Math:85:3
+
 Physics:80:4
+
 Chemistry:90:3
+
 Computer Science:95:5
 
 ### Example
