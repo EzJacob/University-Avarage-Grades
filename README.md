@@ -9,3 +9,8 @@ A Python script that manages and calculates weighted averages of grades using a 
 - Show the list of ignored grades.
 - Calculate and display the weighted average of grades.
 - Calculate and display the weighted average of grades excluding the ignored grades.
+
+# Example Usage
+
+![Alt text](exUsage1.png)
+![Alt text](exUsage2.png)
